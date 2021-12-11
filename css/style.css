@@ -1,0 +1,57 @@
+.header h2{
+    text-align: center;
+
+}
+
+
+.mid-texts {
+    text-align: center;
+    padding: 20px 10px;
+}
+.members img{
+    width: 400px;
+}
+.members h2{
+    padding: 0;
+    margin: 0;
+}
+.members h1{
+    padding: 0;
+    margin: 0;
+}
+.members h4{
+    padding-top: 0px;
+    margin-top: 0;
+}
+.alibi{
+    padding-top: 10px;
+    float: right;
+}
+.alibi h2{
+
+}
+.alikhan{
+    padding-top: 10px;
+}
+body{
+    background-color: aliceblue ;
+}
+.about-project .row{
+    background-image: url("https://i.ytimg.com/vi/5QpDQx51nbQ/maxresdefault.jpg");
+    height: 710px;
+    background-color: rgba(0,0,0,0.6);
+}
+.about-project .text{
+    padding-top: 300px;
+    color: white;
+    text-align: center;
+    font-size: 70px;
+}
+.about-project .text h2{
+    font-size: 70px;
+    color: red;
+    border: aqua;
+
+}
+*{
+}
