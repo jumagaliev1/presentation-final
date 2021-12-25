@@ -48,7 +48,7 @@ div a:hover{
 }
 
 .div1 {
-    background-image: url(/res/5485698.jpg);
+    background-image: url('/res/5485698.jpg');
     background-position: center;
     background-size: cover;
     height: 100%;
